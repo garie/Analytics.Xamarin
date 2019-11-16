@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analytics.Xamarin.Core", "Analytics.Xamarin.Core\Analytics.Xamarin.Core.csproj", "{BA6A033B-75AE-403C-95EA-BA634723969D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{56FACAC5-DBDA-4367-ABFE-C682E1C1FA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{6707DE03-ADBA-416F-8475-81B5C9A64238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6A033B-75AE-403C-95EA-BA634723969D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6A033B-75AE-403C-95EA-BA634723969D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6A033B-75AE-403C-95EA-BA634723969D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6A033B-75AE-403C-95EA-BA634723969D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6707DE03-ADBA-416F-8475-81B5C9A64238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6707DE03-ADBA-416F-8475-81B5C9A64238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6707DE03-ADBA-416F-8475-81B5C9A64238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6707DE03-ADBA-416F-8475-81B5C9A64238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6707DE03-ADBA-416F-8475-81B5C9A64238} = {56FACAC5-DBDA-4367-ABFE-C682E1C1FA80}
+	EndGlobalSection
+EndGlobal

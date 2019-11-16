@@ -3,7 +3,7 @@ using Segment;
 using Segment.Model;
 using System;
 
-namespace Tests
+namespace Segment.Test
 {
 	[TestFixture]
 	public class ClientTests

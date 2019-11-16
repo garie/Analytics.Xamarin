@@ -1,11 +1,12 @@
 ﻿Analytics.Xamarin
 =============
 
-Analytics.Xamarin is a [Xamarin](http://xamarin.com) portable class library [(PCL)](http://developer.xamarin.com/guides/cross-platform/application_fundamentals/pcl/) that makes the [Segment](https://segment.com) analytics API available for the following platforms:
+Analytics.Xamarin is a [Xamarin](http://xamarin.com) .NET Standard library that makes the [Segment](https://segment.com) analytics API available for the following platforms:
 
-<div align="center">
+TODO insert screenshot
+<!-- <div align="center">
   <img src="https://cloud.githubusercontent.com/assets/658544/3238915/a9ec3382-f100-11e3-86be-92a04a4726b1.png"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/16131737/53616215-64930280-3b96-11e9-8ea3-af17a2097864.png"/>
@@ -69,4 +70,3 @@ WWWWWW||WWWWWW
 ```
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/segmentio/Analytics.Xamarin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
